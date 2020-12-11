@@ -1,5 +1,5 @@
 # Quiz App - How well do you know Football ???
- Welcome to **Quiz App - How well do you know me** . 
+ Welcome to **Quiz App - How well do you know Football** . 
  It the the simple CLI (Command line Interface) application.
  This was apllication is been build with the help of basic programming concepts loops,funtion,CHALK PACKAGE, etc in **JAVASCRIPT** Langugae. 
 
