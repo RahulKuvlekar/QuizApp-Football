@@ -21,7 +21,7 @@ function play(question,answer)
 
     if(userAns.toUpperCase() === answer.toUpperCase())
     {
-        console.log(chalk.redBright("ANSWER :: You are Right !!! "));
+        console.log(chalk.green("ANSWER :: You are Right !!! "));
         score++;
     }
     else
